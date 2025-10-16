@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: GB Apps Legal
 description: Terms and Privacy documents for my games.
+baseurl: "/legal"
