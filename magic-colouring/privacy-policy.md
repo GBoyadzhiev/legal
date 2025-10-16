@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy – Magic Colouring
-layout: default
+layout: no-sidebar
 permalink: /magic-colouring/privacy-policy/
 ---
 

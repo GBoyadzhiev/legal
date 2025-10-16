@@ -3,3 +3,18 @@
 
 @import "jekyll-theme-minimal";
 @import "custom";
+
+/* Full-width inner pages, no left column */
+.no-sidebar .content-wrapper {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+
+/* Defensive: hide theme’s left column & footer if the theme still injects them */
+.no-sidebar header,
+.no-sidebar .sidebar,
+.no-sidebar .side-bar,
+.no-sidebar footer {
+  display: none !important;
+}

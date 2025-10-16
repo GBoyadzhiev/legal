@@ -1,6 +1,6 @@
 ---
 title: Terms of Use – Magic Colouring
-layout: default
+layout: no-sidebar
 permalink: /magic-colouring/terms-of-use/
 ---
 
