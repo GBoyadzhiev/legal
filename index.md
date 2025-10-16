@@ -1,2 +1,1 @@
-- [Privacy Policy](privacy-policy)
-- [Terms of Use](terms-of-use)
+- [Magic Colouring](magic-colouring)
