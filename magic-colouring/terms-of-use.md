@@ -4,8 +4,6 @@ layout: no-sidebar
 permalink: /magic-colouring/terms-of-use/
 ---
 
-# Terms of Use – Magic Colouring
-
 **Last updated:** October 2025  
 
 Welcome to **Magic Colouring** — a fun, creative coloring app made for children.  
