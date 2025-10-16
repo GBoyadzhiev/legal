@@ -8,7 +8,7 @@ permalink: /magic-colouring/terms-of-use/
 
 **Last updated:** October 2025  
 
-Welcome to **Magic Colouring** — a fun, creative coloring app made for kids.  
+Welcome to **Magic Colouring** — a fun, creative coloring app made for children.  
 By using the app, you agree to the following terms:  
 
 ## 1. Purpose  

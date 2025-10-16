@@ -21,7 +21,7 @@ No payment or personal data is collected by the developer.
 
 ## 4. Children’s Privacy  
 Magic Colouring is suitable for children and fully complies with the **Children’s Online Privacy Protection Act (COPPA)** principles.
-The app is safe for kids and does not include external links or social features accessible to them.  
+The app is safe for children and does not include external links or social features accessible to them.  
 
 ## 5. Changes  
 This Privacy Policy may be updated from time to time. The date at the top indicates the latest revision.

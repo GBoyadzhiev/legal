@@ -7,7 +7,7 @@ permalink: /magic-colouring/about/
 # About *Magic Colouring*
 
 Hi, I’m an indie developer who created **Magic Colouring** with a lot of care and passion.  
-My goal is to give kids a safe, fun, and creative way to enjoy colouring on iPhone and iPad.  
+My goal is to give children a safe, fun, and creative way to enjoy colouring on iPhone and iPad.  
 
 The books are filled with bold outlines, simple shapes, and cheerful characters — perfect for little hands and big imaginations.  
 There’s zero tracking and zero advertising here, just a cozy colouring space for your family.
