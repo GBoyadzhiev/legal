@@ -23,7 +23,7 @@ Some artwork was created with the assistance of AI tools and carefully reviewed 
 
 ## 4. User Data  
 Magic Colouring does **not** collect, store, or share any personal information from users.  
-See the [Privacy Policy](privacy-policy.md) for more details.  
+See the **Privacy Policy** for more details.  
 
 ## 5. Liability  
 The app is provided “as is.” While every effort is made to ensure a safe and smooth experience, the developer cannot guarantee uninterrupted operation or freedom from errors.  
