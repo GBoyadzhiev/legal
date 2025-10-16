@@ -4,8 +4,6 @@ layout: no-sidebar
 permalink: /magic-colouring/privacy-policy/
 ---
 
-# Privacy Policy – Magic Colouring
-
 **Last updated:** October 2025  
 
 ## 1. Overview  

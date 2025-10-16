@@ -4,8 +4,6 @@ layout: no-sidebar
 permalink: /magic-colouring/about/
 ---
 
-# About *Magic Colouring*
-
 Hi, I’m an indie developer who created **Magic Colouring** with a lot of care and passion.  
 My goal is to give children a safe, fun, and creative way to enjoy colouring on iPhone and iPad.  
 
