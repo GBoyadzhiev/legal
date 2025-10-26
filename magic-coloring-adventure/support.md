@@ -1,3 +1,9 @@
+---
+title: Support – Magic Coloring Adventure
+layout: no-sidebar
+permalink: /magic-coloring-adventure/support/
+---
+
 # Support
 
 If you need help with **Magic Coloring Adventure**, please contact me at:
