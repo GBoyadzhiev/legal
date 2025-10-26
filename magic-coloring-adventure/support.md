@@ -13,8 +13,8 @@ If you need help with **Magic Coloring Adventure**, please contact me at:
 I usually respond within 1–2 business days.
 
 You can also check:
-- [Privacy Policy](./privacy-policy)
-- [Terms of Use](./terms)
-- [About the App](./about)
+- [Privacy Policy](../privacy-policy)
+- [Terms of Use](../terms)
+- [About the App](../about)
 
 Thank you for playing and supporting indie development!
