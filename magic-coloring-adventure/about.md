@@ -21,5 +21,4 @@ Every image has been reviewed and refined by me to make sure it’s appropriate,
 
 ---
 
-### – Georgi Boyadzhiev  
-Developer of *Magic Coloring Adventure*
+**Georgi Boyadzhiev – Developer of Magic Coloring Adventure**  
