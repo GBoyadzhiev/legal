@@ -48,10 +48,10 @@ We aim to earn support through value rather than pressure.
 
 ### Core Team
 
-* Georgi Boyadzhiev — Developer
-* Vladimir Kotev — Consultant
-* Petar Panev — QA
 * Elena Georgieva — Designer
+* Georgi Boyadzhiev — Developer
+* Petar Panev — QA
+* Vladimir Kotev — Consultant
 
 ## Contact
 
@@ -59,8 +59,5 @@ Developer:
 Georgi Boyadzhiev
 
 Email:
-[gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com)
-
-Additional contact:
 [gbindie.dev@gmail.com](mailto:gbindie.dev@gmail.com)
 
