@@ -16,3 +16,4 @@ Here you can find the legal documents for each of my apps.
 - [Terms of Use]({{ site.baseurl }}/litsi/terms-of-use/)
 - [About]({{ site.baseurl }}/litsi/about/)
 - [Support]({{ site.baseurl }}/litsi/support/)
+- [Subscription Information]({{ site.baseurl }}/litsi/subscription-information/)
