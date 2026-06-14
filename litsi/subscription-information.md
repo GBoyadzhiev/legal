@@ -1,3 +1,9 @@
+---
+title: Subscription Information
+layout: no-sidebar
+permalink: /litsi/subscription -information/
+---
+
 # Subscription Information
 
 Last Updated: June 2026
