@@ -1,96 +1,68 @@
 ---
-title: Subscription Information
+title: Subscription Information – Litsi
 layout: no-sidebar
 lang: en
 permalink: /litsi/en/subscription-information/
+alternate_en: /litsi/en/subscription-information/
+alternate_bg: /litsi/bg/subscription-information/
+redirect_from:
+  - /litsi/subscription-information/
 ---
-
 # Subscription Information
 
-Last Updated: June 2026
+Effective and last updated: July 19, 2026
 
-## Overview
+This page summarizes Litsi subscriptions. The purchase screen, the [Terms of Use]({{ site.baseurl }}/litsi/en/terms-of-use/), Apple’s purchase terms, and mandatory consumer law also apply.
 
-Litsi offers optional premium subscriptions that unlock additional reflection tools and advanced features.
+## Free Access
 
-Subscriptions help support the ongoing development of the application while allowing core journaling functionality to remain available.
+Without a subscription, Litsi provides access to the current day’s Journal. Litsi has no advertising for any user.
 
-## Available Plans
+## Premium Access
 
-Litsi currently offers subscriptions through the App Store.
+While a Premium subscription is active, it unlocks the full currently offered package:
 
-Available products may include:
+- Journal history
+- Historical Calendar access
+- Insights
+- AI Beta Recap on supported devices
 
-* Monthly subscription
-* Yearly subscription
+AI Beta Recap depends on compatible hardware and software, Apple Intelligence settings and model availability, region, and language. Generated recap text is currently available only in English and is for self-reflection, not medical or psychological advice.
 
-Pricing, billing periods, introductory offers, and trial availability are determined by the App Store and may vary by region.
+## Plans and Prices
 
-The most current pricing information is always displayed within the application and on the App Store purchase screen.
+Litsi offers monthly and yearly auto-renewing subscriptions through Apple’s App Store. Current prices, currency, taxes, billing periods, and any introductory offer are shown in Litsi and in Apple’s confirmation sheet before purchase. They may differ by storefront.
 
-## Premium Features
-
-Premium subscriptions may provide access to features such as:
-
-* Extended journal history
-* Historical calendar access
-* Insights and reflection summaries
-* AI-powered recap features
-* Additional premium tools introduced in future updates
-
-The exact feature set may evolve over time as Litsi develops.
-
-Current feature availability is always described within the application.
-
-## Free Features
-
-Litsi provides a free experience that allows users to:
-
-* Record moods
-* Create journal entries
-* Maintain a daily reflection habit
-
-The free experience may be subject to reasonable limitations compared to premium subscriptions.
+A “Best value” label is shown for the yearly plan only when its current App Store price is lower than the price of twelve monthly periods. It does not promise future pricing.
 
 ## Free Trials
 
-Where available, free trials and introductory offers are managed through the App Store.
+A free trial appears only when Apple reports that an offer is available for the product and account. The purchase screen states the trial length and the full price charged after it ends.
 
-Trial availability is determined by Apple and may depend on your App Store account history.
+After the trial, Apple charges the displayed full price for the selected billing period and the subscription renews automatically until canceled. Apple advises canceling at least 24 hours before the trial ends to avoid the first charge.
 
-Not all users will necessarily see the same introductory offers.
+## Renewal, Grace Period, and Cancellation
 
-## Billing
+Payment is charged to your Apple Account at confirmation. Unless canceled, the subscription renews automatically at the then-disclosed price and billing period.
 
-Subscriptions are billed through Apple using your App Store account.
+Litsi is configured to permit up to a 16-day billing grace period for eligible renewal failures. Apple determines eligibility and operation; access may end if payment is not recovered.
 
-Payment is charged to your Apple ID account upon confirmation of purchase.
+Manage or cancel at [Apple subscription management](https://apps.apple.com/account/subscriptions). Cancellation normally leaves access active until the end of the paid period. Deleting Litsi does not cancel a subscription.
 
-Subscriptions automatically renew unless canceled before the renewal date.
+## Family Sharing
 
-## Managing Your Subscription
+Litsi subscriptions do not support Family Sharing.
 
-You can manage or cancel your subscription at any time through your Apple ID subscription settings.
+## Restore and Refunds
 
-Subscription management is handled by Apple.
+Use “Restore Purchases” in Litsi to ask StoreKit to restore an eligible entitlement for the current Apple Account.
 
-## Refunds
+Apple controls refund eligibility and decisions. Submit a request at [Report a Problem](https://reportaproblem.apple.com/). The Operator cannot directly issue an App Store refund.
 
-Refund requests are handled by Apple according to Apple's policies.
+## Feature Changes
 
-The developer cannot issue refunds directly.
+Premium may evolve prospectively as Litsi develops. Paid access due during an active subscription period will be honored, subject to security, law, platform requirements, misuse, and circumstances beyond reasonable control. Device requirements may limit a feature even while Premium is active.
 
-## Changes
+## Support
 
-Subscription offerings, pricing, and premium features may change over time.
-
-Any significant changes will be reflected within the application and/or updated documentation.
-
-## Contact
-
-For questions regarding Litsi subscriptions, please contact:
-
-[gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com)
-
-Developer:
-Georgi Boyadzhiev
+For Litsi subscription questions, contact [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com). For payment methods, charges, cancellation, or refunds, use Apple’s account and support tools.

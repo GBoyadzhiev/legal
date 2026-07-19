@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: GB Apps Legal
-description: Terms and Privacy documents for my games.
+description: Legal and support documents for independently published apps.
+url: "https://gboyadzhiev.github.io"
 baseurl: "/legal"
+plugins:
+  - jekyll-redirect-from
 sass:
   style: compressed

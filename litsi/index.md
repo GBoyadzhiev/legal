@@ -1,6 +1,7 @@
 ---
 title: Litsi Legal Documents
 layout: no-sidebar
+lang: en
 permalink: /litsi/
 ---
 # Litsi Legal Documents

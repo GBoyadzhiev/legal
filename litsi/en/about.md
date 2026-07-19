@@ -3,61 +3,33 @@ title: About – Litsi
 layout: no-sidebar
 lang: en
 permalink: /litsi/en/about/
+alternate_en: /litsi/en/about/
+alternate_bg: /litsi/bg/about/
+redirect_from:
+  - /litsi/about/
 ---
 # About Litsi
 
-## Our Philosophy
+## A Calm Place for Reflection
 
-Litsi was created as a calm and private space for reflection.
+Litsi is a private-by-design journal for noticing how your days feel without streak pressure, advertising, or tracking. The current day’s Journal is free; optional Premium access adds journal history, historical Calendar access, Insights, and AI Beta Recap on supported devices.
 
-The goal is simple:
+## Privacy by Design
 
-Help people build a sustainable journaling habit without pressure, distraction, or manipulation.
+Litsi requires no account. Journal data stays on your device and is not sent to a server operated by Litsi. Backup export, story sharing, and reminders happen only at your direction. Exported archives are unencrypted files, so you choose and protect their destination.
 
-We believe reflection works best when it is:
+Litsi contains no ads, advertising network, tracking, or third-party analytics SDK. On supported devices, AI Beta Recap uses Apple’s on-device models; generated recap text is currently available only in English.
 
-* Calm
-* Personal
-* Private
-* Consistent
+## Self-Reflection, Not Advice
 
-Litsi is intentionally designed to avoid dark patterns, artificial urgency, and aggressive engagement tactics.
+Litsi is intended for adults aged 18 or older. It is a self-reflection tool, not a medical device, therapy service, crisis service, diagnosis, treatment, or source of medical or psychological advice.
 
-## Privacy First
+## Operator
 
-Litsi follows a privacy-first approach.
-
-Your journal entries remain on your device.
-
-Litsi does not use advertising networks.
-
-Litsi does not collect analytics.
-
-Litsi does not send your journal content to external AI providers.
-
-AI-powered reflection features operate locally on your device.
-
-## Premium Philosophy
-
-Core journaling remains available to everyone.
-
-Premium features are intended to provide deeper reflection tools, historical access, and advanced insights while preserving a respectful user experience.
-
-We aim to earn support through value rather than pressure.
-
-## Team
-
-### Core Team
-
-* Elena Georgieva — Designer
-* Georgi Boyadzhiev — Developer
-* Petar Panev — QA
-* Vladimir Kotev — Consultant
+Litsi is operated and published by **Georgi Boyadzhiev** as an individual.
 
 ## Contact
 
-Developer:
-Georgi Boyadzhiev
+For product or support questions, use [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
 
-Email:
-[gbindie.dev@gmail.com](mailto:gbindie.dev@gmail.com)
+Read the [Privacy Policy]({{ site.baseurl }}/litsi/en/privacy-policy/), [Terms of Use]({{ site.baseurl }}/litsi/en/terms-of-use/), and [Subscription Information]({{ site.baseurl }}/litsi/en/subscription-information/).
