@@ -28,6 +28,17 @@ Litsi is intended for adults aged 18 or older. It is a self-reflection tool, not
 
 Litsi is operated and published by **Georgi Boyadzhiev** as an individual.
 
+## Team
+
+Litsi was shaped with the care and contribution of:
+
+- **Georgi Boyadzhiev** — Developer
+- **Elena Georgieva** — Designer
+- **Vladimir Kotev** — Consultant
+- **Petar Panev** — QA
+
+These acknowledgments recognize contributions to the product. Legal operation and responsibility for Litsi remain with Georgi Boyadzhiev as stated above.
+
 ## Contact
 
 For product or support questions, use [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
