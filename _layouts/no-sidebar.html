@@ -22,13 +22,6 @@
   </head>
   <body class="no-sidebar">
     <main class="content-wrapper" role="main">
-      {% if page.alternate_en and page.alternate_bg %}
-      <nav aria-label="Language">
-        <a href="{{ page.alternate_en | relative_url }}" lang="en">English</a>
-        <span aria-hidden="true"> · </span>
-        <a href="{{ page.alternate_bg | relative_url }}" lang="bg">Български</a>
-      </nav>
-      {% endif %}
       {{ content }}
     </main>
   </body>

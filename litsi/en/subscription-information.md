@@ -12,7 +12,7 @@ redirect_from:
 
 Effective and last updated: July 19, 2026
 
-This page summarizes Litsi subscriptions. The purchase screen, the [Terms of Use]({{ site.baseurl }}/litsi/en/terms-of-use/), Apple’s purchase terms, and mandatory consumer law also apply.
+This page summarizes Litsi subscriptions. The purchase screen, the [Terms of Use]({{ '/litsi/en/terms-of-use/' | relative_url }}), Apple’s purchase terms, and mandatory consumer law also apply.
 
 ## Free Access
 

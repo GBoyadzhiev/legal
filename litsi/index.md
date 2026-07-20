@@ -9,17 +9,17 @@ permalink: /litsi/
 Choose a language for Litsi legal documents.
 
 ## English
-- [Privacy Policy]({{ site.baseurl }}/litsi/en/privacy-policy/)
-- [Terms of Use]({{ site.baseurl }}/litsi/en/terms-of-use/)
-- [About]({{ site.baseurl }}/litsi/en/about/)
-- [Support]({{ site.baseurl }}/litsi/en/support/)
-- [Subscription Information]({{ site.baseurl }}/litsi/en/subscription-information/)
+- [Privacy Policy]({{ '/litsi/en/privacy-policy/' | relative_url }})
+- [Terms of Use]({{ '/litsi/en/terms-of-use/' | relative_url }})
+- [About]({{ '/litsi/en/about/' | relative_url }})
+- [Support]({{ '/litsi/en/support/' | relative_url }})
+- [Subscription Information]({{ '/litsi/en/subscription-information/' | relative_url }})
 
 ## Български
-- [Политика за поверителност]({{ site.baseurl }}/litsi/bg/privacy-policy/)
-- [Условия за ползване]({{ site.baseurl }}/litsi/bg/terms-of-use/)
-- [За Litsi]({{ site.baseurl }}/litsi/bg/about/)
-- [Поддръжка]({{ site.baseurl }}/litsi/bg/support/)
-- [Информация за абонамента]({{ site.baseurl }}/litsi/bg/subscription-information/)
+- [Политика за поверителност]({{ '/litsi/bg/privacy-policy/' | relative_url }})
+- [Условия за ползване]({{ '/litsi/bg/terms-of-use/' | relative_url }})
+- [За Litsi]({{ '/litsi/bg/about/' | relative_url }})
+- [Поддръжка]({{ '/litsi/bg/support/' | relative_url }})
+- [Информация за абонамента]({{ '/litsi/bg/subscription-information/' | relative_url }})
 
 Existing English document URLs remain available for compatibility.

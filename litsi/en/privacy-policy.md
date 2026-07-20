@@ -10,17 +10,13 @@ redirect_from:
 ---
 # Privacy Policy
 
-Effective and last updated: July 19, 2026
+Effective and last updated: July 20, 2026
 
 ## 1. Who Is Responsible
 
 Litsi is operated by **Georgi Boyadzhiev**, acting as an individual (the “Operator”, “we”, “us”). For personal data that we actually receive, the Operator is the data controller.
 
-Contact details:
-
-- Email: [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com) (primary contact channel)
-- Postal address: Kyustendil 2500, ul. Gladston 21, building 43, floor 8, flat 29, Bulgaria
-- Support phone: [+359 883 336 231](tel:+359883336231), Monday–Friday, 10:00–12:00 and 13:00–16:00 Europe/Sofia time, excluding Bulgarian public holidays
+Contact the Operator at [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com). The legally required provider identity, address, and correspondence details are centralized in the [Terms of Use]({{ '/litsi/en/terms-of-use/' | relative_url }}).
 
 ## 2. Scope and Privacy Design
 

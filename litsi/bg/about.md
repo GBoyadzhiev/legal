@@ -30,4 +30,4 @@ Litsi се управлява и публикува от **Георги Бояд
 
 За въпроси за продукта или поддръжка използвайте [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
 
-Прочетете [Политиката за поверителност]({{ site.baseurl }}/litsi/bg/privacy-policy/), [Условията за ползване]({{ site.baseurl }}/litsi/bg/terms-of-use/) и [Информацията за абонамента]({{ site.baseurl }}/litsi/bg/subscription-information/).
+Прочетете [Политиката за поверителност]({{ '/litsi/bg/privacy-policy/' | relative_url }}), [Условията за ползване]({{ '/litsi/bg/terms-of-use/' | relative_url }}) и [Информацията за абонамента]({{ '/litsi/bg/subscription-information/' | relative_url }}).

@@ -10,7 +10,7 @@ redirect_from:
 ---
 # Terms of Use
 
-Effective and last updated: July 19, 2026
+Effective and last updated: July 20, 2026
 
 ## 1. Operator and Agreement
 
@@ -66,7 +66,7 @@ Manage or cancel a subscription in Apple Account settings or at [Apple subscript
 
 Use “Restore Purchases” in Litsi to ask StoreKit to restore an eligible entitlement. Refund eligibility and decisions are controlled by Apple and applicable law; requests can be made through [Report a Problem](https://reportaproblem.apple.com/).
 
-See the [Subscription Information]({{ site.baseurl }}/litsi/en/subscription-information/) page for a plain-language summary.
+See the [Subscription Information]({{ '/litsi/en/subscription-information/' | relative_url }}) page for a plain-language summary.
 
 ## 7. Local Storage, Backups, and Data Loss
 

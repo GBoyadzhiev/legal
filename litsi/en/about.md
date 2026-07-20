@@ -32,4 +32,4 @@ Litsi is operated and published by **Georgi Boyadzhiev** as an individual.
 
 For product or support questions, use [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
 
-Read the [Privacy Policy]({{ site.baseurl }}/litsi/en/privacy-policy/), [Terms of Use]({{ site.baseurl }}/litsi/en/terms-of-use/), and [Subscription Information]({{ site.baseurl }}/litsi/en/subscription-information/).
+Read the [Privacy Policy]({{ '/litsi/en/privacy-policy/' | relative_url }}), [Terms of Use]({{ '/litsi/en/terms-of-use/' | relative_url }}), and [Subscription Information]({{ '/litsi/en/subscription-information/' | relative_url }}).
