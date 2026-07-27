@@ -10,7 +10,7 @@ redirect_from:
 ---
 # Terms of Use
 
-Effective and last updated: July 20, 2026
+Effective and last updated: July 27, 2026
 
 ## 1. Operator and Agreement
 
@@ -43,6 +43,8 @@ Litsi is **not** a medical device, healthcare service, therapy service, crisis s
 Do not use Litsi for emergencies or time-critical decisions. If you believe you may harm yourself or another person, or need urgent help, contact local emergency services or an appropriate qualified professional.
 
 You remain responsible for decisions and actions taken after reviewing information in Litsi.
+
+See the standalone [Disclaimer]({{ '/litsi/en/disclaimer/' | relative_url }}), which forms part of these Terms.
 
 ## 5. Free and Premium Features
 
