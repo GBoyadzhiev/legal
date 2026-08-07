@@ -10,11 +10,17 @@
     {% else %}
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     {% endif %}
+    {% if page.alternates %}
+    {% for alternate in page.alternates %}
+    <link rel="alternate" hreflang="{{ alternate[0] }}" href="{{ alternate[1] | absolute_url }}">
+    {% endfor %}
+    {% else %}
     {% if page.alternate_en %}
     <link rel="alternate" hreflang="en" href="{{ page.alternate_en | absolute_url }}">
     {% endif %}
     {% if page.alternate_bg %}
     <link rel="alternate" hreflang="bg" href="{{ page.alternate_bg | absolute_url }}">
+    {% endif %}
     {% endif %}
 
     <!-- Use the theme CSS + your overrides -->
