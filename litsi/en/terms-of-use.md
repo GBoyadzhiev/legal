@@ -10,7 +10,7 @@ redirect_from:
 ---
 # Terms of Use
 
-Effective and last updated: July 27, 2026
+Effective and last updated: September 17, 2026
 
 ## 1. Operator and Agreement
 
@@ -38,7 +38,7 @@ You must be at least **18 years old** and legally able to enter into this agreem
 
 Litsi is a personal journal and self-reflection tool. It lets you record moods and reflections and may present summaries or patterns based on data in the app.
 
-Litsi is **not** a medical device, healthcare service, therapy service, crisis service, or substitute for professional judgment. It does not diagnose, treat, prevent, monitor, or provide medical, psychological, psychiatric, therapeutic, legal, or financial advice. Insights and AI Beta Recap are informational prompts for self-reflection only. They may be incomplete, inaccurate, or unsuitable for your circumstances.
+Litsi is **not** a medical device, healthcare service, therapy service, crisis service, or substitute for professional judgment. It does not diagnose, treat, prevent, monitor, or provide medical, psychological, psychiatric, therapeutic, legal, or financial advice. Insights and AI Recap are informational prompts for self-reflection only. They may be incomplete, inaccurate, or unsuitable for your circumstances.
 
 Do not use Litsi for emergencies or time-critical decisions. If you believe you may harm yourself or another person, or need urgent help, contact local emergency services or an appropriate qualified professional.
 
@@ -48,7 +48,7 @@ See the standalone [Disclaimer]({{ '/litsi/en/disclaimer/' | relative_url }}), w
 
 ## 5. Free and Premium Features
 
-The free experience provides access to the current day’s Journal. An active Premium subscription unlocks the full currently offered package: journal history, historical Calendar access, Insights, and AI Beta Recap on supported devices.
+The free experience provides access to the current day’s Journal. An active Premium subscription unlocks the full currently offered package: journal history, historical Calendar access, Insights, and AI Recap on supported devices.
 
 The app has no advertising for free or Premium users. Ad-free use is a product-wide design choice, not a Premium entitlement.
 
@@ -78,9 +78,9 @@ Backup export and import are user-initiated. Exported Litsi archives are unencry
 
 You are responsible for making and testing appropriate backups before deleting Litsi, erasing or replacing a device, or taking another action that may remove data. To the maximum extent permitted by law, we are not responsible for loss caused by app deletion, device loss or change, local corruption, user action, unavailable or damaged backups, operating-system behavior, or a third-party storage provider. Nothing in this section limits mandatory consumer rights or liability that cannot legally be excluded.
 
-## 8. AI Beta Recap
+## 8. AI Recap
 
-AI Beta Recap is an experimental feature that uses Apple’s on-device models and locally derived observations. Availability depends on compatible hardware and software, Apple Intelligence configuration, region, language, and model readiness. Generated text is currently available only in English.
+AI Recap uses Apple’s on-device models and locally derived observations. Availability depends on compatible hardware and software, Apple Intelligence configuration, region, language, and model readiness. Generated text is currently available only in English.
 
 AI output is probabilistic and may be incorrect, incomplete, inconsistent, or unavailable. Do not treat it as a factual assessment of your health, personality, relationships, or circumstances. The disclaimers in Section 4 apply fully.
 

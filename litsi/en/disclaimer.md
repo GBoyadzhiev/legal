@@ -8,7 +8,7 @@ alternate_bg: /litsi/bg/disclaimer/
 ---
 # Disclaimer
 
-Effective and last updated: July 27, 2026
+Effective and last updated: September 17, 2026
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Litsi provides information for **self-analysis, self-knowledge, and self-awarene
 
 Litsi is not a medical device, healthcare, therapy, or crisis service. The app does not diagnose, treat, prevent, or monitor disease and does not provide medical, psychological, psychiatric, or therapeutic advice. Using Litsi does not create a therapist–client relationship or another professional relationship.
 
-Insights and AI Beta Recap may be incomplete, inaccurate, or unsuitable for your circumstances. Use them only as prompts for personal self-reflection.
+Insights and AI Recap may be incomplete, inaccurate, or unsuitable for your circumstances. Use them only as prompts for personal self-reflection.
 
 ## Decisions and Professional Help
 

@@ -12,13 +12,13 @@ redirect_from:
 
 ## A Calm Place for Reflection
 
-Litsi is a private-by-design journal for noticing how your days feel without streak pressure, advertising, or tracking. The current day’s Journal is free; optional Premium access adds journal history, historical Calendar access, Insights, and AI Beta Recap on supported devices.
+Litsi is a private-by-design journal for noticing how your days feel without streak pressure, advertising, or tracking. The current day’s Journal is free; optional Premium access adds journal history, historical Calendar access, Insights, and AI Recap on supported devices.
 
 ## Privacy by Design
 
 Litsi requires no account. Journal data stays on your device and is not sent to a server operated by Litsi. Backup export, story sharing, and reminders happen only at your direction. Exported archives are unencrypted files, so you choose and protect their destination.
 
-Litsi contains no ads, advertising network, tracking, or third-party analytics SDK. On supported devices, AI Beta Recap uses Apple’s on-device models; generated recap text is currently available only in English.
+Litsi contains no ads, advertising network, tracking, or third-party analytics SDK. On supported devices, AI Recap uses Apple’s on-device models; generated recap text is currently available only in English.
 
 ## Self-Reflection, Not Advice
 

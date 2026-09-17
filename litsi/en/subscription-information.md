@@ -10,7 +10,7 @@ redirect_from:
 ---
 # Subscription Information
 
-Effective and last updated: July 19, 2026
+Effective and last updated: September 17, 2026
 
 This page summarizes Litsi subscriptions. The purchase screen, the [Terms of Use]({{ '/litsi/en/terms-of-use/' | relative_url }}), Apple’s purchase terms, and mandatory consumer law also apply.
 
@@ -25,9 +25,9 @@ While a Premium subscription is active, it unlocks the full currently offered pa
 - Journal history
 - Historical Calendar access
 - Insights
-- AI Beta Recap on supported devices
+- AI Recap on supported devices
 
-AI Beta Recap depends on compatible hardware and software, Apple Intelligence settings and model availability, region, and language. Generated recap text is currently available only in English and is for self-reflection, not medical or psychological advice.
+AI Recap depends on compatible hardware and software, Apple Intelligence settings and model availability, region, and language. Generated recap text is currently available only in English and is for self-reflection, not medical or psychological advice.
 
 ## Plans and Prices
 

@@ -10,7 +10,7 @@ redirect_from:
 ---
 # Privacy Policy
 
-Effective and last updated: July 20, 2026
+Effective and last updated: September 17, 2026
 
 ## 1. Who Is Responsible
 
@@ -30,15 +30,15 @@ The app contains no advertising, tracking, third-party analytics SDK, or third-p
 
 ### Local journal data
 
-Journal data is processed on your device to provide the Journal, Calendar, Insights, backup, sharing, and eligible AI Beta Recap features. We do not receive this data.
+Journal data is processed on your device to provide the Journal, Calendar, Insights, backup, sharing, and eligible AI Recap features. We do not receive this data.
 
 Your device and operating system may include app data in an iCloud or device backup according to your Apple settings. Those backups are controlled by you and Apple, not by us.
 
-### AI Beta Recap
+### AI Recap
 
-On supported devices, AI Beta Recap uses Apple’s on-device models and locally derived journal observations. Journal data is not sent to us or to an external AI provider for this feature, and we do not use it to train an external AI system.
+On supported devices, AI Recap uses Apple’s on-device models and locally derived journal observations. Journal data is not sent to us or to an external AI provider for this feature, and we do not use it to train an external AI system.
 
-AI Beta Recap may be unavailable depending on the device, operating system, language, region, Apple Intelligence settings, or model readiness. Generated recap text is currently available only in English.
+AI Recap may be unavailable depending on the device, operating system, language, region, Apple Intelligence settings, or model readiness. Generated recap text is currently available only in English.
 
 ### Backup, import, and export
 
