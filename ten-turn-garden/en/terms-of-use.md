@@ -43,7 +43,7 @@ The app is free to play. **“Full Garden”** is an optional **one-time in-app 
 
 The game, its plants, puzzles, artwork, sounds, text, and code are owned by or licensed to the Developer and are protected by applicable law. The fonts used in the app are licensed under the SIL Open Font License, as credited in the app.
 
-You may use the app for your own enjoyment and share your results. You may not copy, extract, sell, or redistribute the app’s puzzles, assets, or code, or offer them as your own, except where mandatory law allows. No rights are granted other than the limited right to use the app under these Terms and the Apple Standard EULA.
+You may use the app for your own personal enjoyment. You may not copy, extract, sell, or redistribute the app’s puzzles, assets, or code, or offer them as your own, except where mandatory law allows. No rights are granted other than the limited right to use the app under these Terms and the Apple Standard EULA.
 
 ## 6. Local Data
 

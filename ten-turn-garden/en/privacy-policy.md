@@ -39,11 +39,7 @@ Everything the app remembers stays on the iPhone, in the app’s own storage:
 
 This information is not sent to us, and we cannot see, recover, or delete it. Removing the app removes it, subject to any device backup you have set up with Apple under Apple’s terms.
 
-## 5. Sharing a Result
-
-After today’s garden, you can choose to share your result. The app prepares a short text — the date, score, medal, streak, and a grid of emoji showing the garden — and hands it to the iPhone’s standard share sheet. Nothing is shared unless you choose a destination yourself, and the app does not see where it goes. Once shared, the text is handled by the app or service you picked, under its own terms.
-
-## 6. What the App Does Not Do
+## 5. What the App Does Not Do
 
 To be explicit, Ten-Turn Garden does not:
 
@@ -54,23 +50,23 @@ To be explicit, Ten-Turn Garden does not:
 - send notifications
 - show advertising of any kind
 
-## 7. Ratings and Reviews
+## 6. Ratings and Reviews
 
 At a good moment the app may ask whether you would like to rate it. That prompt is shown by Apple’s operating system, which decides how often it appears; we do not learn whether it was shown or what you chose. A rating or review you submit is handled by Apple under its own terms.
 
-## 8. In-App Purchase
+## 7. In-App Purchase
 
 “Full Garden” is a one-time purchase handled entirely by Apple’s App Store. Apple processes the payment, the payment method, taxes, and any refund. **We never receive card, bank, or Apple Account details.**
 
 To know whether Full Garden is unlocked, the app asks the App Store on the device whether the current Apple Account owns it. Apple may give us aggregate sales figures and the information needed to resolve a purchase problem. Apple’s handling of purchases is described in Apple’s own privacy information.
 
-## 9. Children
+## 8. Children
 
 Ten-Turn Garden is a puzzle game for a general audience and is not directed at children. Because it collects no personal data from anyone, there is no personal data of a child for us to receive through the app.
 
 If you believe a child has sent us personal data — for example by emailing support — contact us and we will delete it.
 
-## 10. Information We Receive Directly
+## 9. Information We Receive Directly
 
 The only way we receive personal data is if you write to us.
 
@@ -78,23 +74,23 @@ If you email support, we receive your email address, your message, and anything 
 
 Please include no more personal information than the question needs. Support correspondence and any necessary notes are normally deleted within **six months after the case is resolved**, unless a longer period is required by law or reasonably necessary for an active dispute or legal claim.
 
-## 11. These Legal Pages
+## 10. These Legal Pages
 
 These pages are hosted with GitHub Pages. GitHub states that a visitor’s IP address is logged and stored for security purposes, and processes that data under its own privacy terms.
 
 Support email is provided through Google, which may process email metadata and content to deliver that service under the Google Privacy Policy.
 
-## 12. Recipients and International Transfers
+## 11. Recipients and International Transfers
 
 We do not sell personal data. Personal data you send to support may be processed by Google as our email provider and, where necessary, by professional advisers or public authorities. Apple processes App Store activity, and GitHub hosts these legal pages.
 
 Apple, Google, and GitHub may process data outside your country. Their own privacy notices describe their locations and transfer safeguards. We disclose support data to anyone else only where necessary for the purposes above or required by law.
 
-## 13. Security
+## 12. Security
 
 We apply reasonable organizational and technical measures to the data we receive. No method of transmission or storage is completely secure. Because your progress lives on your iPhone, protecting the device itself — a passcode and current software — is the most effective safeguard.
 
-## 14. Your Rights
+## 13. Your Rights
 
 Data kept by the app is controlled directly on the device: settings can be changed in the app, and removing the app removes its local storage.
 
@@ -104,10 +100,10 @@ Because we never receive the app’s local data, a support request cannot retrie
 
 You may lodge a complaint with the Bulgarian Commission for Personal Data Protection (cpdp.bg) or with the supervisory authority where you live, work, or believe an infringement occurred.
 
-## 15. Changes to This Policy
+## 14. Changes to This Policy
 
 We may update this Policy. For material changes, we will give reasonable notice through an app update or another appropriate channel before or when the change takes effect, and will request consent where the law requires it. Minor corrections may be reflected by updating the date above.
 
-## 16. Contact
+## 15. Contact
 
 Privacy questions and rights requests should be sent to [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
