@@ -43,6 +43,21 @@ Here you can find the legal documents for each of my apps.
 - [Sobre o aplicativo]({{ site.baseurl }}/magic-coloring-adventure/pt-br/about/)
 - [Suporte]({{ site.baseurl }}/magic-coloring-adventure/pt-br/support/)
 
+## 🌱 Ten-Turn Garden
+- [Choose language / Избор на език]({{ site.baseurl }}/ten-turn-garden/)
+
+### English
+- [Privacy Policy]({{ site.baseurl }}/ten-turn-garden/en/privacy-policy/)
+- [Terms of Use]({{ site.baseurl }}/ten-turn-garden/en/terms-of-use/)
+- [About]({{ site.baseurl }}/ten-turn-garden/en/about/)
+- [Support]({{ site.baseurl }}/ten-turn-garden/en/support/)
+
+### Български
+- [Политика за поверителност]({{ site.baseurl }}/ten-turn-garden/bg/privacy-policy/)
+- [Условия за ползване]({{ site.baseurl }}/ten-turn-garden/bg/terms-of-use/)
+- [За приложението]({{ site.baseurl }}/ten-turn-garden/bg/about/)
+- [Поддръжка]({{ site.baseurl }}/ten-turn-garden/bg/support/)
+
 ## Litsi
 - [Choose language / Избор на език]({{ site.baseurl }}/litsi/)
 
