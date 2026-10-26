@@ -38,6 +38,15 @@ The fonts Caprasimo, Figtree, Yeseva One, and Commissioner are used under the SI
 
 Ten-Turn Garden is made and published by **Georgi Boyadzhiev**, an independent developer, working as an individual.
 
+## Team
+
+Ten-Turn Garden was shaped with the care and contribution of:
+
+- **Georgi Boyadzhiev** — Developer
+- **Petar Panev** — QA
+
+These acknowledgments recognize contributions to the game. Legal operation and responsibility for Ten-Turn Garden remain with Georgi Boyadzhiev as stated above.
+
 ## Contact
 
 For product or support questions, write to [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.com).
