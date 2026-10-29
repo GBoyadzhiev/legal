@@ -20,11 +20,11 @@ There are three ways to play:
 - **Plant Sudoku** — a botanical twist on sudoku
 - **Garden Puzzles** — hand-made puzzles arranged in chapters
 
-Ten-Turn Garden is available for iPhone, in English and Bulgarian.
+Ten-Turn Garden is available for iPhone and iPad, in English and Bulgarian.
 
 ## Quiet by Design
 
-There are no ads, no analytics, no tracking, no accounts, no energy or timers, and no server. Everything you plant stays on your iPhone. The [Privacy Policy]({{ '/ten-turn-garden/en/privacy-policy/' | relative_url }}) says exactly what that means.
+There are no ads, no analytics, no tracking, no accounts, no energy or timers, and no server. Your garden stays on your device, and your medals, journal, and streak can follow you to your other devices through your own iCloud — never through us. The [Privacy Policy]({{ '/ten-turn-garden/en/privacy-policy/' | relative_url }}) says exactly what that means.
 
 ## Full Garden
 
