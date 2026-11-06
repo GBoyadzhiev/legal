@@ -30,13 +30,15 @@ These Terms supplement the Apple Standard EULA. Mandatory law always controls, a
 
 Ten-Turn Garden is a puzzle game for **personal, non-commercial entertainment**. Scores, medals, streaks, and plant combinations are part of the game and have no value outside it.
 
-## 4. Full Garden Purchase
+## 4. Full Garden and Other Purchases
 
-The app is free to play. **“Full Garden”** is an optional **one-time in-app purchase** that unlocks additional plants, unlimited challenges and daily gardens, more Plant Sudoku levels, additional garden skins, and the rest of the Garden Puzzles, as described in the app at the time of purchase. There is no subscription and nothing renews automatically.
+The app is free to play. **“Full Garden”** is an optional **one-time in-app purchase** that unlocks the Garden Puzzles included with the game, additional plants, unlimited challenges and daily gardens, more Plant Sudoku levels, and additional garden skins, as described in the app at the time of purchase. There is no subscription and nothing renews automatically.
+
+New content, such as additional level packs, may be offered later as separate in-app purchases. Full Garden includes what the app describes when you buy it; content sold separately is not included in Full Garden unless the app says so. Each separate purchase shows its own price and what it unlocks before you buy it.
 
 - The price, currency, and taxes are shown by the App Store before purchase and may differ by country.
 - Full Garden is tied to the Apple Account that bought it and can be shared with your family through **Apple Family Sharing**, where you have it set up.
-- “Restore purchases” in the app’s settings asks the App Store to restore a purchase already made with the current Apple Account. Use it after reinstalling the app or setting up a new iPhone or iPad.
+- “Restore purchases” in the app’s settings asks the App Store to restore purchases already made with the current Apple Account. Use it after reinstalling the app or setting up a new iPhone or iPad.
 - Apple processes all payments and decides all refunds under its own policies and applicable law. We cannot issue an App Store refund directly.
 
 ## 5. Content and Ownership
@@ -61,7 +63,7 @@ Do not misuse the app, interfere with its operation, attempt unauthorized access
 
 ## 9. Availability and Changes
 
-We aim to keep the app working but do not guarantee uninterrupted, error-free, or permanent availability. Modes, puzzles, plants, and features may be corrected, rebalanced, updated, added, or discontinued for operational, security, legal, platform, or product reasons. Content you have unlocked with Full Garden will not be removed except where necessary for security, law, platform requirements, misuse, or circumstances beyond reasonable control.
+We aim to keep the app working but do not guarantee uninterrupted, error-free, or permanent availability. Modes, puzzles, plants, and features may be corrected, rebalanced, updated, added, or discontinued for operational, security, legal, platform, or product reasons. Content you have unlocked with a purchase will not be removed except where necessary for security, law, platform requirements, misuse, or circumstances beyond reasonable control.
 
 We may update these Terms. Material changes will be communicated through an app update or another appropriate channel, and we will request express acceptance where the law requires it. Minor corrections may be reflected by updating the date above. If you do not agree to revised Terms, stop using the app.
 

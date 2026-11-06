@@ -20,7 +20,7 @@ Contact us at [gbindie.dev+support@gmail.com](mailto:gbindie.dev+support@gmail.c
 
 ## 2. Scope
 
-This Policy covers the Ten-Turn Garden app for iPhone and iPad, its in-app purchase, support communications, and these legal pages.
+This Policy covers the Ten-Turn Garden app for iPhone and iPad, its in-app purchases, support communications, and these legal pages.
 
 ## 3. The Short Version
 
@@ -71,11 +71,11 @@ To be explicit, Ten-Turn Garden does not:
 
 At a good moment the app may ask whether you would like to rate it. That prompt is shown by Apple’s operating system, which decides how often it appears; we do not learn whether it was shown or what you chose. A rating or review you submit is handled by Apple under its own terms.
 
-## 8. In-App Purchase
+## 8. In-App Purchases
 
-“Full Garden” is a one-time purchase handled entirely by Apple’s App Store. Apple processes the payment, the payment method, taxes, and any refund. **We never receive card, bank, or Apple Account details.**
+“Full Garden” and any other purchase offered in the app are handled entirely by Apple’s App Store. Apple processes the payment, the payment method, taxes, and any refund. **We never receive card, bank, or Apple Account details.**
 
-To know whether Full Garden is unlocked, the app asks the App Store on the device whether the current Apple Account owns it. Apple may give us aggregate sales figures and the information needed to resolve a purchase problem. Apple’s handling of purchases is described in Apple’s own privacy information.
+To know what is unlocked, the app asks the App Store on the device which purchases the current Apple Account owns. Apple may give us aggregate sales figures and the information needed to resolve a purchase problem. Apple’s handling of purchases is described in Apple’s own privacy information.
 
 ## 9. Children
 

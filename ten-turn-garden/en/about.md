@@ -28,7 +28,7 @@ There are no ads, no analytics, no tracking, no accounts, no energy or timers, a
 
 ## Full Garden
 
-The game is free to play. **Full Garden** is a single optional **one-time purchase** that unlocks more plants, unlimited challenges and daily gardens, more Plant Sudoku levels, extra garden skins, and the rest of the Garden Puzzles. There is no subscription, and it can be shared through Apple Family Sharing.
+The game is free to play. **Full Garden** is an optional **one-time purchase** that unlocks all the Garden Puzzles that come with the game, together with more plants, unlimited challenges and daily gardens, more Plant Sudoku levels, and extra garden skins. There is no subscription, and it can be shared through Apple Family Sharing.
 
 ## Credits
 
