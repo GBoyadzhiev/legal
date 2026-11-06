@@ -50,6 +50,12 @@ Your medals, journal, discoveries, and streak are kept in your iCloud unless you
 
 We hold no copy of your progress and cannot see your iCloud, so support cannot recover progress that was never in iCloud — for example with the switch turned off — or that iCloud did not keep. Full Garden is restored separately, with “Restore purchases”.
 
+**Starting over or removing your progress:**
+
+- **Erase my garden** (Settings ▸ Your Garden) clears medals, the journal, the streak, daily bests, and tutorial progress from this device. Your settings and Full Garden stay. It turns the iCloud switch off and keeps any iCloud copy, so turning the switch back on brings your garden back.
+- **Delete my iCloud copy** (Settings ▸ iCloud) removes your progress from iCloud and stops your other devices syncing it. Your garden stays on each device.
+- To remove everything, delete the iCloud copy, then erase the garden on each device.
+
 Today’s garden changes at midnight UTC. If your streak looks wrong, check that your device’s date and time are set automatically.
 
 ## Other Documents

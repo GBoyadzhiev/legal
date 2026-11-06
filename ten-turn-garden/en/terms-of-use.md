@@ -10,7 +10,7 @@ alternates:
 ---
 # Terms of Use
 
-Effective and last updated: October 29, 2026
+Effective and last updated: November 6, 2026
 
 ## 1. Developer and Agreement
 
@@ -49,7 +49,7 @@ You may use the app for your own personal enjoyment. You may not copy, extract, 
 
 Game progress, daily results, streaks, and settings are stored on your device. Unless you turn it off in the app’s settings, your earned progress — medals, the journal, discoveries, and the streak — is also kept in your own iCloud account through Apple, so another device signed in to the same account can carry on. We hold no copy, and there is no account or cloud service on our side to restore from.
 
-With the iCloud copy turned off, deleting the app, erasing or replacing a device, or losing a device may permanently remove your progress. With it on, progress is restored from iCloud when you sign in to the same account, but iCloud is a service provided by Apple: it may be delayed, unavailable, or turned off on the device, and we do not guarantee that it will always restore everything. The Full Garden purchase can normally be restored with “Restore purchases”. To the maximum extent permitted by law, we are not responsible for loss of progress caused by app deletion, device loss or change, local corruption, operating-system behavior, iCloud, or another third-party service. Nothing here limits mandatory consumer rights.
+With the iCloud copy turned off, deleting the app, erasing or replacing a device, or losing a device may permanently remove your progress. With it on, progress is restored from iCloud when you sign in to the same account, but iCloud is a service provided by Apple: it may be delayed, unavailable, or turned off on the device, and we do not guarantee that it will always restore everything. “Erase my garden” and “Delete my iCloud copy” in the app’s settings remove progress at your request; erasing a garden that has no copy in iCloud cannot be undone. The Full Garden purchase can normally be restored with “Restore purchases”. To the maximum extent permitted by law, we are not responsible for loss of progress caused by app deletion, device loss or change, local corruption, operating-system behavior, iCloud, or another third-party service. Nothing here limits mandatory consumer rights.
 
 ## 7. Today’s Garden
 

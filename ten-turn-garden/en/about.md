@@ -20,7 +20,7 @@ There are three ways to play:
 - **Plant Sudoku** — a botanical twist on sudoku
 - **Garden Puzzles** — hand-made puzzles arranged in chapters
 
-Ten-Turn Garden is available for iPhone and iPad, in English and Bulgarian.
+Ten-Turn Garden is available for iPhone and iPad, in English.
 
 ## Quiet by Design
 

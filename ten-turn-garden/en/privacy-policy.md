@@ -10,7 +10,7 @@ alternates:
 ---
 # Privacy Policy
 
-Effective and last updated: October 29, 2026
+Effective and last updated: November 6, 2026
 
 ## 1. Who Is Responsible
 
@@ -37,7 +37,7 @@ The app keeps the following in its own storage on the device:
 - Discoveries — plant combinations you have found
 - Settings — sound, haptics, motion, hints, difficulty level, language, and garden skin
 
-This information is not sent to us, and we cannot see, recover, or delete it. Removing the app removes it from the device, subject to any device backup you have set up with Apple under Apple’s terms. Part of it can also be kept in your iCloud, as described next.
+This information is not sent to us, and we cannot see, recover, or delete it. You can erase it yourself with Settings ▸ Your Garden ▸ “Erase my garden”, which clears your medals, journal, streak, daily bests, and tutorial progress from the device and keeps your settings and Full Garden. Removing the app also removes it from the device, subject to any device backup you have set up with Apple under Apple’s terms. Part of it can also be kept in your iCloud, as described next.
 
 ## 5. Your Progress in iCloud
 
@@ -52,7 +52,9 @@ Settings, a Plant Sudoku game in play, and your recent plant choices stay on the
 
 This is **on unless you turn it off**: Settings ▸ iCloud ▸ “Keep my garden in iCloud”. Turning it off stops copying; it does not delete what is already in iCloud. If the iCloud account on the device changes, the app turns the switch off so that one account’s progress is never copied into another’s. Without an iCloud account, progress simply stays on the device.
 
-The copy is stored and transmitted by Apple under Apple’s iCloud terms and privacy policy. It goes from your device to your iCloud account directly — it never passes through us, and **we cannot see, access, recover, or delete it**. The app does not currently offer a way to erase the iCloud copy itself; turning the switch off on every device stops it from being used or updated.
+The copy is stored and transmitted by Apple under Apple’s iCloud terms and privacy policy. It goes from your device to your iCloud account directly — it never passes through us, and **we cannot see, access, recover, or delete it**. You can delete the iCloud copy with Settings ▸ iCloud ▸ “Delete my iCloud copy”. The app replaces your saved progress in iCloud with a small marker that records only that it was deleted and when, so that your other devices stop syncing instead of uploading it again; the switch is turned off, and your garden stays on the device. Turning the switch on again later saves that device’s garden to iCloud anew.
+
+“Erase my garden” clears the device only and turns the switch off; it leaves any iCloud copy in place, so turning the switch back on restores it. To remove your progress everywhere, delete the iCloud copy and erase the garden on each device.
 
 ## 6. What the App Does Not Do
 
@@ -107,7 +109,7 @@ We apply reasonable organizational and technical measures to the data we receive
 
 ## 14. Your Rights
 
-Data kept by the app is controlled directly by you: settings can be changed in the app, the iCloud copy can be switched off in the app’s settings, and removing the app removes its local storage.
+Data kept by the app is controlled directly by you: settings can be changed in the app, the iCloud copy can be switched off or deleted in the app’s settings, your garden can be erased from the device with “Erase my garden”, and removing the app removes its local storage.
 
 Where the GDPR or a similar law applies to personal data we hold — in practice, support correspondence — you may request access, correction, deletion, restriction, or portability, object to processing, and withdraw consent where processing relies on it. Some rights depend on the circumstances and on legal exceptions. Write to the email address above; we may need reasonable information to locate your request.
 
