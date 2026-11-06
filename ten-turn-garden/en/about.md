@@ -16,7 +16,7 @@ Ten-Turn Garden is a calm strategy game made to be played slowly. You plant ten 
 
 There are three ways to play:
 
-- **Plant a Garden** — free play, challenges, and today’s garden, the same for everyone each day, with medals, a streak, and a garden journal
+- **Plant a Garden** — free play, challenges, and today’s garden, one new garden a day to replay as often as you like, with medals, a streak, and a garden journal
 - **Plant Sudoku** — a botanical twist on sudoku
 - **Garden Puzzles** — hand-made puzzles arranged in chapters
 
@@ -28,7 +28,7 @@ There are no ads, no analytics, no tracking, no accounts, no energy or timers, a
 
 ## Full Garden
 
-The game is free to play. **Full Garden** is an optional **one-time purchase** that unlocks all the Garden Puzzles that come with the game, together with more plants, unlimited challenges and daily gardens, more Plant Sudoku levels, and extra garden skins. There is no subscription, and it can be shared through Apple Family Sharing.
+The game is free to play. **Full Garden** is an optional **one-time purchase** that unlocks all the Garden Puzzles that come with the game, together with more plants, unlimited challenges, more Plant Sudoku levels, and extra garden skins. There is no subscription, and it can be shared through Apple Family Sharing.
 
 ## Credits
 

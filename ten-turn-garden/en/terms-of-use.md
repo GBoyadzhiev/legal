@@ -32,7 +32,7 @@ Ten-Turn Garden is a puzzle game for **personal, non-commercial entertainment**.
 
 ## 4. Full Garden and Other Purchases
 
-The app is free to play. **“Full Garden”** is an optional **one-time in-app purchase** that unlocks the Garden Puzzles included with the game, additional plants, unlimited challenges and daily gardens, more Plant Sudoku levels, and additional garden skins, as described in the app at the time of purchase. There is no subscription and nothing renews automatically.
+The app is free to play. **“Full Garden”** is an optional **one-time in-app purchase** that unlocks the Garden Puzzles included with the game, additional plants, unlimited challenges, more Plant Sudoku levels, and additional garden skins, as described in the app at the time of purchase. There is no subscription and nothing renews automatically.
 
 New content, such as additional level packs, may be offered later as separate in-app purchases. Full Garden includes what the app describes when you buy it; content sold separately is not included in Full Garden unless the app says so. Each separate purchase shows its own price and what it unlocks before you buy it.
 
@@ -55,7 +55,7 @@ With the iCloud copy turned off, deleting the app, erasing or replacing a device
 
 ## 7. Today’s Garden
 
-Today’s garden is the same for every player and changes once a day at midnight UTC, which may not be midnight where you are. A streak depends on the date and time set on your device. We do not restore lost streaks or results.
+There is one today’s garden a day, which you can replay as often as you like; with Full Garden it is drawn from all the plants and combinations. It changes once a day at midnight UTC, which may not be midnight where you are. A streak depends on the date and time set on your device. We do not restore lost streaks or results.
 
 ## 8. Acceptable Use
 
